@@ -8,7 +8,7 @@
     <title>お問い合わせ</title>
 </head>
 <body>
-　<h1>お問い合わせ情報入力</h1>
+  <h1>お問い合わせ情報入力</h1>
  <form method="POST" action="check.php">
  <div>
   ニックネーム<br>
@@ -22,7 +22,7 @@
   お問い合わせ内容<br>
     <textarea name="content"></textarea>
  </div>
- <input type="submit" value="迷信">
+ <input type="submit" value="送信">
  </form>
 </body>
 </html>
